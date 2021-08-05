@@ -21,24 +21,31 @@ Hospital Management System is database designed to provide
 ## Entity Relationship Diagram
 ![ERD](./Screenshots/HMS_ERD.png)
 
+## Tableau Visualisation
+
+![Most Common Disease](./Screenshots/Tableau1.png)
+![Patients Age Range](./Screenshots/Tableau2.png)
+![Most Common test assigned to patient](./Screenshots/Tableau3.png)
+
+
 ## Design Document
 
-For design document look for INFO6210-DMDD/HospitalMangementSystem/DesignDocument
+For Design Document check INFO6210-DMDD/HospitalMangementSystem/DesignDocument
 
 Design Document includes
-* Database design Purpose
-* Business Probless addressed
+* Database Design Purpose
+* Business Problems addressed by HMS database
 * Business Rules based on schema's
 * Design Requirements
-* Design decisions
+* Design Decisions for implementing database
 
-## Datbase Implementation
+## Database Implementation
 
- For all the Queries used for implementing database is listed in INFO6210-DMDD/HospitalMangementSystem/DataImplentation.sql
+ For all the queries used for implementing database is listed in INFO6210-DMDD/HospitalMangementSystem/DataImplentation.sql
 
  To execute query, paste in MySQL query browser and click execute button. 
 
-## Final PPT
+## Final Presentation
 
 For final presentation check INFO6210-DMDD/HospitalMangementSystem/FinalPresentation.pptx
 
