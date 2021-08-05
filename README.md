@@ -18,16 +18,6 @@ Hospital Management System is database designed to provide
 * Normalized data to 3NF to eradicate data redundancy.
 * Integrated it with Tableau to generate dashboard/reports to gain insights from data.
 
-## Entity Relationship Diagram
-![ERD](./HospitalMangementSystem/Screenshots/HMS_ERD.png)
-
-## Tableau Visualisation
-
-![Most Common Disease](./HospitalMangementSystem/Screenshots/Tableau1.png)
-![Patients Age Range](./HospitalMangementSystem/Screenshots/Tableau2.png)
-![Most Common test assigned to patient](./HospitalMangementSystem/Screenshots/Tableau3.png)
-
-
 ## Design Document
 
 For Design Document check INFO6210-DMDD/HospitalMangementSystem/DesignDocument
@@ -48,6 +38,17 @@ Design Document includes
 ## Final Presentation
 
 For final presentation check INFO6210-DMDD/HospitalMangementSystem/FinalPresentation.pptx
+
+## Entity Relationship Diagram
+![ERD](./HospitalMangementSystem/Screenshots/HMS_ERD.png)
+
+## Tableau Visualisation
+
+![Most Common Disease](./HospitalMangementSystem/Screenshots/Tableau1.png)
+![Patients Age Range](./HospitalMangementSystem/Screenshots/Tableau2.png)
+![Most Common test assigned to patient](./HospitalMangementSystem/Screenshots/Tableau3.png)
+
+
 
 
 
